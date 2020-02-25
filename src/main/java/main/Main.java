@@ -14,7 +14,7 @@ public class Main{
 
 public static void main(String[] args) {
 
- Student Petar= new Student("Veljkovic", "Tanja", 1986);
+ Student Petar= new Student("Petar", "Petrovic", 1990);
  Petar.Info();
     
     
