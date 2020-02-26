@@ -74,7 +74,7 @@ public void Info () {
        
     System.out.println("First name: " + this.getFirstName());
     System.out.println("Last name: " +  this.getLastName());
-    System.out.println("Last name: " +  this.getYearOfBirth());
+    System.out.println("Year od birth: " +  this.getYearOfBirth());
 
 }
 
